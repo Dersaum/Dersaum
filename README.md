@@ -1,6 +1,6 @@
 # Anderson C Teixeira
 
-Olá, meu nome é Anderson atualmente morando na serra catarinense. Sou engenheiro formado e atualmente estou estudando linguagens de back-end com foco em C# e Python.
+Olá, meu nome é Anderson curto um bom e velho Rock 'N Roll, atualmente morando na serra catarinense. Sou engenheiro formado e atualmente estou estudando linguagens de back-end com foco em C# e Python.
 
 
 ## Habilidades
